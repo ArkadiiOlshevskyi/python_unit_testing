@@ -4,10 +4,6 @@ import unittest
 
 class TestUsernameCheck(unittest.TestCase):
 
-    def test_for_generic(self):
-        '''Name adn Surname souldn't be not generic ascqwczX'''
-        pass
-
     def test_for_capitals(self):
         '''Name and Surname should both start from capitals'''
         pass
